@@ -1,5 +1,6 @@
-package com.example.demo.commmon;
+package com.example.demo.common;
 
+/*包装类*/
 public class Result<T> {
     private String code;
     private String msg;
